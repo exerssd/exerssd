@@ -84,7 +84,7 @@ Currently focused on improving my skills in **Roblox Development, Web Developmen
 
 ## 📫 Connect With Me
 
-* 💼 GitHub: [@exerssd](https://github.com/yourusername]
+* 💼 GitHub: [@exerssd](https://github.com/exerssd]
 * 💬 Discord: `corzxene`
 * 📧 Email: `exeldaffa@gmail.com`
 
