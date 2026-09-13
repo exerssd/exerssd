@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sigma
+# 👋 Hi, Deus Ex Machiato
 
 🎓 Informatics Student
 💻 Aspiring Software Developer
