@@ -44,7 +44,7 @@ Currently focused on improving my skills in **Roblox Development, Web Developmen
 <!-- Card Statistik Utama & Bahasa -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exerssd&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=exerssd&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exerssd&theme=tokyonight" />
 </div>
 
 <br/>
