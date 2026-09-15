@@ -43,11 +43,8 @@ Currently focused on improving my skills in **Roblox Development, Web Developmen
 
 <!-- Card Statistik Utama & Bahasa -->
 <div align="center">
-  <!-- Kartu Statistik Utama (Server Mirror) -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=exerssd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  
-  <!-- Top Languages (Server Mirror) -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=exerssd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exerssd&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=exerssd&theme=tokyonight" />
 </div>
 
 <br/>
