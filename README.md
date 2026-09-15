@@ -43,15 +43,15 @@ Currently focused on improving my skills in **Roblox Development, Web Developmen
 
 <!-- Card Statistik Utama & Bahasa -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exerssd&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=exerssd&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exerssd&theme=tokyonight&hide_border=true"/> 
 </div>
 
 <br/>
 
 <!-- Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exerssd&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exerssd&theme=tokyonight" />
 </div>
 
 
