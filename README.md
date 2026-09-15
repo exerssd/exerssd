@@ -41,14 +41,17 @@ Currently focused on improving my skills in **Roblox Development, Web Developmen
 
 ---
 
-## 📈 GitHub Stats
-
+<!-- Card Statistik Utama & Bahasa -->
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=exerssd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exerssd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exerssd\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=exerssd\&layout=compact\&theme=tokyonight\&hide_border=true)
-
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exerssd&theme=tokyonight&hide_border=true"/>
 </div>
 
 
@@ -85,7 +88,7 @@ Currently focused on improving my skills in **Roblox Development, Web Developmen
 
 ## 📫 Connect With Me
 
-* 💼 GitHub: [@exerssd](https://github.com/exerssd]
+* 💼 GitHub: [@exerssd](https://github.com/exerssd)
 * 💬 Discord: `corzxene`
 * 📧 Email: `exeldaffa@gmail.com`
 
