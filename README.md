@@ -70,21 +70,10 @@ Currently focused on improving my skills in **Roblox Development, Web Developmen
 
 ## 📚 Currently Building
 
-```text
-🎮 Roblox Game Development
-████████████░░░░░░░░ 60%
-
-🌐 Web Development
-██████████░░░░░░░░░░ 50%
-
-💻 C++ / Algorithms
-███████████░░░░░░░░░ 55%
-
-🧠 Software Engineering
-██████░░░░░░░░░░░░░░ 30%
-```
-
----
+🎮 Roblox Game Development   `In Progress`
+🌐 Web Development           `Building`
+💻 C++ / Algorithms          `Improving`
+🧠 Software Engineering      `Learning`
 
 ## 📫 Connect With Me
 
